@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5C3350E8-A480-47AD-B352-68248F0D72C6}|Default">
+  <MonoDevelop.Ide.ItemProperties.Tiger PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tiger/Program.cs">
+    <Files>
+      <File FileName="Tiger/Program.cs" Line="62" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tiger" expanded="True">
+            <Node name="Tiger" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

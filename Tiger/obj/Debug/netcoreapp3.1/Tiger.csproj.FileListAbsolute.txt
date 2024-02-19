@@ -1,0 +1,13 @@
+/Users/charanjit/projects/Tiger/Tiger/bin/Debug/netcoreapp3.1/Tiger.deps.json
+/Users/charanjit/projects/Tiger/Tiger/bin/Debug/netcoreapp3.1/Tiger.runtimeconfig.json
+/Users/charanjit/projects/Tiger/Tiger/bin/Debug/netcoreapp3.1/Tiger.runtimeconfig.dev.json
+/Users/charanjit/projects/Tiger/Tiger/bin/Debug/netcoreapp3.1/Tiger.dll
+/Users/charanjit/projects/Tiger/Tiger/bin/Debug/netcoreapp3.1/Tiger.pdb
+/Users/charanjit/projects/Tiger/Tiger/obj/Debug/netcoreapp3.1/Tiger.csproj.AssemblyReference.cache
+/Users/charanjit/projects/Tiger/Tiger/obj/Debug/netcoreapp3.1/Tiger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charanjit/projects/Tiger/Tiger/obj/Debug/netcoreapp3.1/Tiger.AssemblyInfoInputs.cache
+/Users/charanjit/projects/Tiger/Tiger/obj/Debug/netcoreapp3.1/Tiger.AssemblyInfo.cs
+/Users/charanjit/projects/Tiger/Tiger/obj/Debug/netcoreapp3.1/Tiger.csproj.CoreCompileInputs.cache
+/Users/charanjit/projects/Tiger/Tiger/obj/Debug/netcoreapp3.1/Tiger.dll
+/Users/charanjit/projects/Tiger/Tiger/obj/Debug/netcoreapp3.1/Tiger.pdb
+/Users/charanjit/projects/Tiger/Tiger/obj/Debug/netcoreapp3.1/Tiger.genruntimeconfig.cache
